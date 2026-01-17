@@ -1,5 +1,7 @@
 # Analisi di Fourier dei Segnali con Streamlit
 
+**Web app online:** https://hdmjmk2xgzlptwtfkxfr7j.streamlit.app/
+
 Web app interattiva per generare segnali sinusoidali/cosinusoidali oppure caricarli da file CSV e visualizzare lo spettro in frequenza tramite la Trasformata di Fourier (FFT).
 
 L'applicazione è realizzata in Python utilizzando _Streamlit_, _NumPy_, _Pandas_ e _Plotly_.
